@@ -1,7 +1,5 @@
 # **Flutter Lab Assignment 3**
-# Feben Getachew  
-# UGR/4295/15  
-# SECTION-3
+# Feben Getachew  UGR/4295/15  SECTION-3
 A Flutter application that fetches a list of Albums and associated Photos from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com), displays them in a scrollable list, and shows full album details on a separate screen.
 
 ---
@@ -57,10 +55,10 @@ Build a Flutter app that:
 📁 Project Structure
 
 lib/
-├── blocs/             # BLoC files (AlbumBloc, AlbumEvent, AlbumState)
-├── models/            # Data models (Album, Photo)
-├── routes/            # App router using go_router
-├── viewmodels/        # AlbumViewModel for API logic
-├── views/             # Screens: AlbumListScreen, AlbumDetailScreen
-├── widgets/           # Reusable UI components (e.g., AlbumTile)
-main.dart              # Entry point
+├── blocs/            
+├── models/           
+├── routes/            
+├── viewmodels/        
+├── views/             
+├── widgets/           
+main.dart           
